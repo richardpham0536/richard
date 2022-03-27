@@ -1,0 +1,2 @@
+# richard
+Intro to IT
